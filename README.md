@@ -3,7 +3,8 @@
   ```math  
   G_{\mu\nu} = 8\pi (T_{\mu\nu} - \alpha \partial_t \nabla_\mu \nabla_\nu S)
 
-  Creative Commons Attribution 4.0 International License (CC BY 4.0)
+
+   Creative Commons Attribution 4.0 International License (CC BY 4.0)
 
 Copyright © 2025 [Ayşe Yılmaz]
 
